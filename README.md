@@ -100,8 +100,12 @@ I'm passionate about developing applications with robust, clean architecture and
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/im-Vengeance0/im-Vengeance0/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/im-Vengeance0/im-Vengeance0/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
-
+<h2>🥷 Visitors</h2>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  [![](https://visitcount.itsvg.in/api?id=im-Vengeance0&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</div>
 
 
 
