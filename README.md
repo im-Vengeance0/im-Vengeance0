@@ -94,3 +94,15 @@ I'm passionate about developing applications with robust, clean architecture and
        alt="Top Languages" 
        style="height: 300px; width: 49%;" />
 </div>
+<h2>🐍 Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/im-Vengeance0/im-Vengeance0/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/im-Vengeance0/im-Vengeance0/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/im-Vengeance0/im-Vengeance0/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+
+
+
+
